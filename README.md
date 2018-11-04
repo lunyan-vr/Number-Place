@@ -1,4 +1,4 @@
-Number-Place
+Number-Place-Solver
 ====
 ## Overview
 It is a program to solve Number Place.
